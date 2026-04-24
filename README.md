@@ -1,2 +1,2 @@
 # delta-demo
-this ia a demo github to learn.
+this ia a demo git & github to learn.
